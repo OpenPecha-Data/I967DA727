@@ -3,5 +3,152 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD107937
   title: གསུང་འབུམ། ངག་དབང་བློ་བཟང་རྒྱ་མཚོ།
-  volume: ''
+  volume:
+    281f88c06f4b4682828cd1d2c59e860f:
+      image_group_id: I1PD107939
+      title: Volume 1 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 1
+      total_pages: 632
+    7b0468aea3f84cde9482b7aed397eca7:
+      image_group_id: I1PD107940
+      title: Volume 2 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 2
+      total_pages: 574
+    5280db6567674f8682aa802a62e310cb:
+      image_group_id: I1PD107941
+      title: Volume 3 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 3
+      total_pages: 566
+    74ff9a93328a4acca1aa569601544286:
+      image_group_id: I1PD107942
+      title: Volume 4 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 4
+      total_pages: 578
+    7a5e1545de174d9c96addd6dde479a73:
+      image_group_id: I1PD107943
+      title: Volume 5 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 5
+      total_pages: 566
+    3bdc701509ac41ecaeb7ebf6a2a50a18:
+      image_group_id: I1PD107944
+      title: Volume 6 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 6
+      total_pages: 420
+    ec2e013685284474984f4064e40202d0:
+      image_group_id: I1PD107945
+      title: Volume 7 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 7
+      total_pages: 370
+    75995035b4264223a6991ca9aa0e9bff:
+      image_group_id: I1PD107946
+      title: Volume 8 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 8
+      total_pages: 590
+    c825bf9e10364c0f88b221c6ceecb9f1:
+      image_group_id: I1PD107947
+      title: Volume 9 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 9
+      total_pages: 478
+    75bee73c35ad497ea8d8110d51eea51f:
+      image_group_id: I1PD107948
+      title: Volume 10 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 10
+      total_pages: 548
+    d08075b0370e4c70af9088f765016f64:
+      image_group_id: I1PD107949
+      title: Volume 11 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 11
+      total_pages: 596
+    f3afd584bdc140ccad431c8bbf07cce1:
+      image_group_id: I1PD107950
+      title: Volume 12 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 12
+      total_pages: 620
+    269669fb77a2451ca8c28871df40850f:
+      image_group_id: I1PD107951
+      title: Volume 13 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 13
+      total_pages: 542
+    fef3196c7cb84070957501f9ebffb03a:
+      image_group_id: I1PD107952
+      title: Volume 14 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 14
+      total_pages: 538
+    b11f2d0d13f74eeaaa63c8664cd29cca:
+      image_group_id: I1PD107953
+      title: Volume 15 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 15
+      total_pages: 628
+    f631e8e51e3f426c8b7a848f41d27433:
+      image_group_id: I1PD107954
+      title: Volume 16 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 16
+      total_pages: 578
+    d50523a19a9344f7a660deddf71e3fab:
+      image_group_id: I1PD107955
+      title: Volume 17 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 17
+      total_pages: 694
+    b7b8514d50064cfaa3225239ccfc3807:
+      image_group_id: I1PD107956
+      title: Volume 18 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 18
+      total_pages: 500
+    56ed6a3a8bb645e4a67fe2ee1b72bc63:
+      image_group_id: I1PD107957
+      title: Volume 19 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 19
+      total_pages: 404
+    ba2e6f2a6371489ab86c79bd88a6f69c:
+      image_group_id: I1PD107958
+      title: Volume 20 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 20
+      total_pages: 414
+    47e76123595244c79e7d35292dc2bcb3:
+      image_group_id: I1PD107959
+      title: Volume 21 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 21
+      total_pages: 486
+    9c2b756642ed4c719981cd4c846a6b26:
+      image_group_id: I1PD107960
+      title: Volume 22 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 22
+      total_pages: 638
+    b81af05ad0a0474b8884fa75003ad3da:
+      image_group_id: I1PD107961
+      title: Volume 23 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 23
+      total_pages: 514
+    87b68015eebb498e93382413a935e2af:
+      image_group_id: I1PD107962
+      title: Volume 24 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 24
+      total_pages: 598
+    7bdf5b69b8594995bf81d11d3d1dc83d:
+      image_group_id: I1PD107963
+      title: Volume 25 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 25
+      total_pages: 630
+    c44ef30bc80e4a76b8c4b5eca040445a:
+      image_group_id: I1PD107964
+      title: Volume 26 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 26
+      total_pages: 634
+    4bb494571966482aa1fb1ae468c7e2a7:
+      image_group_id: I1PD107965
+      title: Volume 27 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 27
+      total_pages: 630
+    1764f039b6a7470aa5fdcc66cb8e1704:
+      image_group_id: I1PD107966
+      title: Volume 28 of gsung 'bum/_ngag dbang blo bzang rgya mtsho/
+      volume_number: 28
+      total_pages: 524
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། ངག་དབང་བློ་བཟང་རྒྱ་མཚོ།
+  author: ''
+  sku: P000407
+  cover: cover.jpg
+  layers:
+  - pagination
