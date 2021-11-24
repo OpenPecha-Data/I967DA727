@@ -1,5 +1,7 @@
 id: P000407
 initial_creation_type: ocr
+created_at: 18/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1PD107937
   title: གསུང་འབུམ། ངག་དབང་བློ་བཟང་རྒྱ་མཚོ།
@@ -173,10 +175,3 @@ source_metadata:
       volume_number: 28
       total_pages: 524
       base_file: v028.txt
-ebook_metadata:
-  title: གསུང་འབུམ། ངག་དབང་བློ་བཟང་རྒྱ་མཚོ།
-  author: ''
-  sku: P000407
-  cover: cover.jpg
-  layers:
-  - pagination
